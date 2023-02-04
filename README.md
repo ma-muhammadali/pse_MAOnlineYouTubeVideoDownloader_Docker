@@ -1,4 +1,4 @@
-# Bold MA Online YouTube Video Downloader Docker Image
+## MA Online YouTube Video Downloader Docker Image
 
 ## Overview
 Do you Want to create and run Docker Image?
@@ -65,5 +65,5 @@ https://github.com/ma-muhammadali/pse_MAOnlineYouTubeVideoDownloader_Docker.git
 ## Usage
 
 * After running Docker Image Container python terminal/ Docker Desktop and then goto http://localhost:3000/
-* paste a youtube video url and click Start
+* Paste a youtube video url and click Start
 * Click Download Video, Download will start automatically
