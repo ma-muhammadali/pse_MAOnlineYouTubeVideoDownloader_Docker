@@ -1,7 +1,7 @@
 ## MA Online YouTube Video Downloader Docker Image
 
 ## Overview
-Do you Want to create and run Docker Image?
+Do you want to create and run Docker Image?
 
 Docker is an open-source platform for automating the deployment, scaling, and management of applications in containers. 
 It provides a way to package and distribute software applications in a consistent and repeatable way, making it easier to manage dependencies and ensure that applications run the same way on different systems.
