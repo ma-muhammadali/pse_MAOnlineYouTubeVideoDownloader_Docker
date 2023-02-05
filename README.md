@@ -1,4 +1,4 @@
-## MA Online YouTube Video Downloader Docker Image
+## MA Online YouTube Video Downloader - Docker Image
 
 ## Overview
 Do you want to create and run Docker Image?
