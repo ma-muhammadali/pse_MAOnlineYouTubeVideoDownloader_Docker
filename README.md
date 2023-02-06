@@ -17,7 +17,8 @@ Containers allow developers to isolate their applications and dependencies from 
 
 ## How to Download
 
-Download this project from here [Download MA Online YouTube Video Downloader Docker]
+Download this project from here
+
 https://github.com/ma-muhammadali/pse_MAOnlineYouTubeVideoDownloader_Docker.git
 
 
